@@ -1,0 +1,69 @@
+/* Set default font and background colors */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style contact form section */
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 212px;
+
+}
+.contact-form {
+  width: 100%;
+  padding: 20px;
+  padding-bottom: 45px;
+  padding-top: 45px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.contact-form input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* Media Queries */
+
+/* For tablet */
+@media only screen and (min-width: 768px) {
+  nav li {
+    margin-right: 30px;
+  }
+  .contact-form {
+    width: 50%;
+  }
+}
+
+/* For desktop */
+@media only screen and (min-width: 1024px) {
+  nav li {
+    margin-right: 40px;
+  }
+  .contact-form {
+    width: 40%;
+  }
+}
+

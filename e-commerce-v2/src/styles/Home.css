@@ -1,0 +1,63 @@
+/* Set default font and background colors */
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+
+
+/* Style slideshow section */
+.slideshow {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+.slideshow-inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+.slide.active {
+  opacity: 1;
+}
+.slideshow, .Si{
+  height: 700px;
+  width: 1600px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+
+/* Media Queries */
+
+/* For tablet */
+@media only screen and (min-width: 768px) {
+  nav li {
+    margin-right: 30px;
+  }
+  .contact-form {
+    width: 50%;
+  }
+}
+
+/* For desktop */
+@media only screen and (min-width: 1024px) {
+  nav li {
+    margin-right: 40px;
+  }
+  .contact-form {
+    width: 40%;
+  }
+}
