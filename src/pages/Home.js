@@ -18,13 +18,13 @@ function Home() {
     <>
       <Slider className='iHold' {...settings}>
         <div >
-          <img className="Si" src="images/Slider1.jpeg" alt="Slide 1" />
+          <img className="Si" src= "https://lh3.googleusercontent.com/BxX5RtcNhi6bq_IqYqKYDUZPOw6T2FQrhVjeQxjo-xUo8u5xSQ9w9tJBxSSdWm_C8v1jZ7nJehmGMJRRAdL-AFe2y3pF34w9Qt2zD6Y"  alt="Slide 1" />
         </div>
         <div>
-          <img className="Si" src="images/Slider3.webp" alt="Slide 2" />
+          <img className="Si" src="https://lh3.googleusercontent.com/bqCwi1xvcQwG1PdexOp_Eg4_O1EEC1gFzGZIAKGjmKDU80CJyRh_Z-JTDC48ofJrTrBw_YiOM56o8-WCdbuasRrYw5C2Sk5S0seMKDEAa3Oj" alt="Slide 2" />
         </div>
         <div>
-          <img className="Si" src="images/Slider2.jpeg" alt="Slide 3" />
+          <img className="Si" src="https://lh3.googleusercontent.com/pNtu5bWJYO5yTqLdBuqUrCVHgbIPy57GaBwtwwvzQprr3-n16X5zb8S3s6uSn8wlr9kcvPFwaBJ7qJZ2Kv4WaciQV4ZwCy0QW_bky2s" alt="Slide 3" />
         </div>
       </Slider>
 
