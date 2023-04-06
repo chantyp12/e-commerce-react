@@ -7,9 +7,6 @@ import Products from './pages/Products';
 import Contact from './pages/Contact';
 import { NotFound } from './pages/NotFound';
 import './App.css';
-// import { createBrowserHistory } from 'history';
-
-// const history = createBrowserHistory();
 
 function App() {
   return (

@@ -29,22 +29,11 @@ function Home() {
       </Slider>
 
 
-      <h2>Welcome to our website!</h2>
+      <h2>Welcome to Chanthai's Microcenter!</h2>
 
       <section>
         <p>We offer a wide variety of computer components and accessories for all your computing needs.</p>
-        {/* <p>Our selection includes:</p>
-        <ul>
-          <li>Processors (CPUs)</li>
-          <li>Graphics Cards (GPUs)</li>
-          <li>Motherboards</li>
-          <li>Memory (RAM)</li>
-          <li>Storage (HDDs, SSDs)</li>
-          <li>Power Supplies (PSUs)</li>
-          <li>Cases</li>
-          <li>Cooling Solutions (Fans, Liquid Cooling)</li>
-          <li>Accessories (Keyboards, Mice, Speakers, Monitors)</li>
-        </ul> */}
+       
         <p>Feel free to browse our selection and contact us if you have any questions or concerns.</p>
       </section>
 

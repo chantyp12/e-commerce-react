@@ -7,7 +7,7 @@ function Navbar(){
     
     <nav>
       <ul>
-        <li className='cm'>Chanthai's Microcenter</li>
+        {/* <li className='cm'>Chanthai's Microcenter</li> */}
         <li>
           <Link to="/">Home</Link>
         </li>
