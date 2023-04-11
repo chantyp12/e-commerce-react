@@ -20,7 +20,7 @@ function Footer(){
       </a>
       <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
       <img
-      src='https://lh3.googleusercontent.com/zvXhnDsMRoFA1299tg58MigXViVVBnoVVGORNzecFxr-ZzMm58TAPA6kHhhGJfOWs_Ybiwg3XLRL8bU90XksKoqc75qlcR7vOMoUQHjM1Q'
+      src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png'
       alt='instagram'
       className='media'
       />

@@ -5,7 +5,7 @@ const ProductsArray= [
     description: "The NVIDIA® GeForce RTX™ 4090 is the ultimate GeForce GPU. It brings an enormous leap in performance, efficiency, and AI-powered graphics.",
     price: "1600",
     image: 
-    "https://lh3.googleusercontent.com/uijuuEMw3d9Xq2lSLl7HIi7GsXNmWZt0aoWPtubnZz05W8mUqTiNoEg8_WbsIkdgnuZYQ-lxOZlN-ymeSeXjdrc6G81WWme2iosOM24khw"
+    "https://i.pinimg.com/564x/12/ee/30/12ee303b4b1794aa55218410e146986f.jpg"
   },
   {
     id:2,
@@ -13,7 +13,7 @@ const ProductsArray= [
     description:"The portion of a computer that retrieves and executes instructions. These processors feature a performance hybrid architecture designed for intelligent performance, optimized creating, and enhanced tuning to allow gamers to game with up to 5.8 GHz clock speed.",
     price: "570",
     image:
-    "https://lh3.googleusercontent.com/stV1mMvZpxN2QISqoJLqkLVWVQChaoYp-EogN-qetcMEt3OEJYDMmNga5TrjQNm0swmf8wvVgwHg0xLoyjAfVoWTse1r-Su8VXfaxVup"
+    "https://i.pinimg.com/564x/36/9c/37/369c37f404b3e9cc001cd305d715b267.jpg"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const ProductsArray= [
     description: "Why should you use an AIO cooler? Just as a swimming pool cools you down quicker than a fan, AIO coolers are much better at chilling CPUs than air.",
     price: "255",
     image:
-    "https://lh3.googleusercontent.com/oLoOPVOTiW3uljdpiSSf0818aTiB5cadN6s7vw3daw6JkGFmDO2ZUUauBCqf8kElz7yJ4VGN7VUvuZavx-HPbeTeYb07GEdPEWWnblEY"
+    "https://i.pinimg.com/736x/43/0e/8e/430e8eda5abe03b9326af949d7226c49.jpg"
   },
   {
     id:4,
@@ -29,7 +29,7 @@ const ProductsArray= [
     description:"An SSD, or solid-state drive, is a type of storage device used in computers. This non-volatile storage media stores persistent data on solid-state flash memory.",
     price:"60",
     image:
-    "https://lh3.googleusercontent.com/htOM6S9o9ymLJf7QJUMXVGwckuMgtomuRj1ALaTz9VWByMwhq3UsFKBJlq4NylYjc4AoZz9Uelml3z2QFPa0qr3Ct_vGNVcO3oSOh6uP"
+    "https://i.pinimg.com/564x/53/11/d8/5311d82d9635d747afdb4b21148963a9.jpg"
   },
   {
     id: 5,
@@ -37,14 +37,14 @@ const ProductsArray= [
     description:"A kind of technology that stores the operating system, applications, and data files such as documents, pictures and music that your computer uses.",
     price: "80",
     image:
-    "https://lh3.googleusercontent.com/f3UQXDAP7807eVEYvODIwB63mLuw_vGIOc-_X7ChM6XBRJqClMMtriwZ44n_cbuYApdbBp-zVOwL43I7P8H8h3-eoszW1LIvcLDB-ao"
+    "https://i.pinimg.com/564x/55/b8/f0/55b8f09388a5b47372694be5e6200f99.jpg"
   },
   {
     id: 6,
     title: "RAM (Random Access Memory)",
     description: "RAM stands for random-access memory, but what does that mean? Your computer RAM is essentially short term memory where data is stored as the processor needs it.",
     price: "55",
-    image: "https://lh3.googleusercontent.com/CR-LBB8dmEmZM5dVs2p-04bTRErZi1ghPx-sBoKGDuvJfYBejPJVDRWgwxA2KZqJp7WdqyfslQD9KZmxfRTgm7EnR1O7PL4arauMNzTF"
+    image: "https://i.pinimg.com/564x/7c/39/15/7c3915b2f4fc21f8cc8953dd83c12ddb.jpg"
   },
   {
     id:7,
@@ -52,14 +52,14 @@ const ProductsArray= [
     description:"Holds most of your computer's hardware. It protects the internal components from dust and other particles and helps to cool the system by allowing air to flow through it.",
     price:"90",
     image:
-    "https://lh3.googleusercontent.com/lmsbBr27QO-_HefhC_4RpIYEuoxNRtOA_IY4FVIVMLuEaHJEQvJULjeAZ8HhT3pqFH6aFGE-RUk_g76XWMZ-KFL_TIIcGc3IdHiXNFQpyQ3H"
+    "https://i.pinimg.com/564x/7d/f5/0c/7df50c99bd53a1556a7bd51184edbb43.jpg"
   },
   {
     id:8,
     title:"Fans",
     description:"A computer fan is any fan inside, or attached to, a computer case used for active cooling. Fans are used to draw cooler air into the case from the outside, expel warm air from inside and move air across a heat sink to cool a particular component.",
     price: "35",
-    image:"https://lh3.googleusercontent.com/N4TtxUKgsEWHSVaAbHJrbeJ5RJtic_QQFuEYMaaf-hrlWs8tWsoYPr8wkH9KRtb1anMgVKJw1e7--wIT0celQcE9Va8V46aPR_-FkRg"
+    image:"https://i.pinimg.com/736x/6f/19/50/6f1950a9849a96f49996e9ba1a4f1c60.jpg"
   },
   {
     id:9,
@@ -67,7 +67,7 @@ const ProductsArray= [
     description:"A power supply unit (PSU) converts mains AC to low-voltage regulated DC power for the internal components of a computer.",
     price:75,
     image:
-    "https://lh3.googleusercontent.com/xz87iRKb3KMWL5XpFRT8mO96C_juVL_0e06X9yYLV1Ql55c9QFlHt2minQ6MmbBExK9UwvSZ8omWmhg5hgtMVQgUxUaG9DWMmqnQXlt3"
+    "https://i.pinimg.com/564x/a3/46/d4/a346d43616a4031be3d183775284a5be.jpg"
   },
   {
     id:10,
@@ -75,14 +75,14 @@ const ProductsArray= [
     description:"A silvery-gray substance that you apply to a processor before installing a cooling solution. It allows for an efficient transfer of heat from the IHS of the processor to the base plate or water block of the CPU cooler that is designed to dissipate that heat.",
     price:8,
     image:
-    "https://lh3.googleusercontent.com/nImrZvTHo4I85GWd0F7V5g3bYn7IKIwxSng79nCWV0OHfzdNXGMRBcJjABzr16n127CD81oitRsV6JFm0lnGpXdPVzKaIeM0vnVN845u"
-  },
+    "https://i.pinimg.com/564x/e6/99/16/e699164e98b51375da281a757a39ffb2.jpg"
+  },  
   {
     id:11,
     title:"Gaming Mouse",
     description:"Uses Optical sensors and also Laser Sensors for higher gaming. With Laser sensor, one can achieve High DPI, means sensitivity of the gaming mouse can be increased.",
     price:"55",
-    image:"https://lh3.googleusercontent.com/O7-MQP2e3NaNUNgao8msf_PGxRbSFUILPHkF6NYsVpgztzBZAqYlzumaJHt9UC6QSzy4xy8ZChbf-4FZDSsLpm3BqDURTYMew3jTT63YZg"
+    image:"https://i.pinimg.com/564x/f7/9f/8a/f79f8a888bfb7b7bd1d2383f0ad3c1c0.jpg"
   },
   {
     id:12,
@@ -90,7 +90,7 @@ const ProductsArray= [
     description:"A small auxiliary keyboard designed only for gaming. It has a limited number of the original keys from a standard keyboard, and they are arranged in a more ergonomic fashion to facilitate quick and efficient gaming key presses.",
     price: "102",
     image:
-    "https://lh3.googleusercontent.com/H5QKmys2L9benj-I0XrPUs0614jb5Y6YBMz2BXyx01yH2pTuHJfhwAuTlPgZLywGNDwUodIWbdXzvlVelZDOK5f8xU7U4Qtf9nFB5YI"
+    "https://i.pinimg.com/564x/cf/df/b8/cfdfb88c655e51a33edaa0295461edc7.jpg"
   }
 ]
 

@@ -18,13 +18,13 @@ function Home() {
     <>
       <Slider className='iHold' {...settings}>
         <div >
-          <img className="Si" src= "https://lh3.googleusercontent.com/BxX5RtcNhi6bq_IqYqKYDUZPOw6T2FQrhVjeQxjo-xUo8u5xSQ9w9tJBxSSdWm_C8v1jZ7nJehmGMJRRAdL-AFe2y3pF34w9Qt2zD6Y"  alt="Slide 1" />
+          <img className="Si" src= "https://www.geekawhat.com/wp-content/uploads/2022/09/White-Themed-RTX-3060Ti-PC-Build-Featured-Image-1250x700.jpg"  alt="Slide 1" />
         </div>
         <div>
-          <img className="Si" src="https://lh3.googleusercontent.com/bqCwi1xvcQwG1PdexOp_Eg4_O1EEC1gFzGZIAKGjmKDU80CJyRh_Z-JTDC48ofJrTrBw_YiOM56o8-WCdbuasRrYw5C2Sk5S0seMKDEAa3Oj" alt="Slide 2" />
+          <img className="Si" src="https://helpdeskgeek.com/wp-content/pictures/2022/05/pc-build.jpeg" alt="Slide 2" />
         </div>
         <div>
-          <img className="Si" src="https://lh3.googleusercontent.com/pNtu5bWJYO5yTqLdBuqUrCVHgbIPy57GaBwtwwvzQprr3-n16X5zb8S3s6uSn8wlr9kcvPFwaBJ7qJZ2Kv4WaciQV4ZwCy0QW_bky2s" alt="Slide 3" />
+          <img className="Si" src="https://www.createpcs.co.uk/wp-content/uploads/2022/05/lian-li-o11-dynamic-evo-i7-12700kf-rtx3050-white-custom-pc-27-Large.jpg" alt="Slide 3" />
         </div>
       </Slider>
 
